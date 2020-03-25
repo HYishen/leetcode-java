@@ -2,7 +2,8 @@ package tree;
 
 /**
  * <pre>
- * 。
+ * 112. 路径总和。
+ * https://leetcode-cn.com/problems/path-sum/。
  * </pre>
  *
  * @author Yishen 844147804@qq.com
@@ -18,7 +19,6 @@ public class PathSum {
 
     public boolean findPathSum(TreeNode node, int sum, int curSum) {
         curSum += node.val;
-        if (curSum > sum) return false;
         if (curSum == sum && node.left == null && node.right == null) {
             return true;
         }
