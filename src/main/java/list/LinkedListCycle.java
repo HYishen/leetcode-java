@@ -1,13 +1,11 @@
 package list;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 /**
  * <pre>
- * 。
+ * https://leetcode-cn.com/problems/linked-list-cycle/。
  * </pre>
  *
  * @author Yishen 844147804@qq.com

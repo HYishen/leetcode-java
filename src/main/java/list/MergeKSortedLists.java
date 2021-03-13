@@ -2,7 +2,7 @@ package list;
 
 /**
  * <pre>
- * 。
+ * https://leetcode-cn.com/problems/merge-k-sorted-lists/。
  * </pre>
  *
  * @author Yishen 844147804@qq.com
